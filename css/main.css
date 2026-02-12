@@ -2615,29 +2615,3 @@ h6 {
 .switch-wrap p {
   margin: 0;
 }
-footer {
-  background-color: #090f14; /* Dark background */
-  color: white; /* Text color */
-  text-align: center; /* Center the text */
-  padding: 30px 0; /* Space inside footer */
-  position: relative; /* Can also use fixed for sticky footer */
-  bottom: 0;
-  width: 100%;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  margin-top: 60px;     /* space above the footer */
-  width: 100%;
-}
-
-}
-
-footer a {
-  color: #ffcc00; /* Link color */
-  text-decoration: none; /* Remove underline */
-  margin: 0 5px;
-}
-
-footer a:hover {
-  text-decoration: underline; /* Hover effect */
-}
-
-
